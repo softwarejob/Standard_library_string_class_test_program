@@ -1,0 +1,44 @@
+Pseudocode:
+"A" for exam grades greater than or equal to 90, "B" for grades 80 to 89, "C" for grades 70 to 79,
+   "D" for grades 60 to 69 and "F" for all other grades.
+
+This pseudocode may be written in C++ as;
+   if (studentGrade >= 90) {
+      cout << "A";
+   }
+   else {
+      if (studentGrade >= 80) {
+         cout << "B";
+      }
+      else {
+         if (studentGrade >= 70) {
+            cout << "C";
+         }
+         else {
+            if (studentGrade >= 60 {
+               cout << "D";
+            }
+            else {
+               cout << "F";
+            }
+         }
+      }
+   }
+
+以下形式避免向右深度縮編程式，在整個文字中，用大括號和括號控制宣告正文({和})，避免了稱為"dangling-else"問題的邏輯錯誤
+
+if (studentGrade >= 90) {
+   cout << "A";
+}
+else if (studentGrade >= 80) {
+   cout << "B";
+}
+else if (studentGrade >= 70) {
+   cout << "C";
+}
+else if (studentGrade >= 60) {
+   cout << "D";
+}
+else {
+   cout << "F";
+}

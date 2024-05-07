@@ -1,0 +1,17 @@
+Block
+if statement expects only one statement in its body.
+要在if's or else's statement body中新增語句，要使用大括號也稱作braces {}
+it's good practice always to use braces {}
+braces {} 括號中的語句（如control statement's or function's body)形成一個block
+block 可以放置single statement 的 function 任何地方
+
+if (studentGrade >= 60) {
+   cout << "Passed";
+}
+else {
+   cout << "Failed\n";
+   cout << "You must retake this course";
+}
+
+
+block可以用於限定變數的作用域、分組語句、控制程式流程等。
