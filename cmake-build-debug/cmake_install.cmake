@@ -1,4 +1,4 @@
-# Install script for directory: /Users/shao-chelin/CLionProjects/Standard library string class test program
+# Install script for directory: /Users/shao-chelin/CLionProjects/Standard_library_string_class_test_program
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/shao-chelin/CLionProjects/Standard library string class test program/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/shao-chelin/CLionProjects/Standard_library_string_class_test_program/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
