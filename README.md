@@ -8,6 +8,8 @@
     <br/>
     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[https://github.com/username/](https://github.com/softwarejob/Standard_library_string_class_test_program/repo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="View Count">
+
 </div>
 
 ## 特性 ✨
