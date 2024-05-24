@@ -1,21 +1,33 @@
-<div align="center">
-    <img src="https://example.com/logo.png" alt="Logo" width="200"/>
-    <h1>项目名称</h1>
-    <p>一个简短的项目描述</p>
-    <a href="https://github.com/softwarejob/Standard_library_string_class_test_program" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/查看项目-blue" alt="查看项目">
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
-    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/softwarejob/Standard_library_string_class_test_program&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="View Count">
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-## 特性 ✨
-- 🚀 **快速启动**：简单的安装和配置，让你快速上手
-- 🔧 **易于配置**：灵活的配置选项，满足不同需求
-- 📦 **丰富的功能**：集成多种实用功能，提升开发效率
+<h1 align="center">Hi 👋, I'm Harry</h1>
 
-## 安装 📦
-```bash
-npm install your-project
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+- 🔭 I’m currently working on [Standard_library_string_class_test_](https://github.com/softwarejob/Standard_library_string_class_test_program.git)
+
+- 🌱 I’m currently learning **C++ 20**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harry-lin-85b393191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry-lin-85b393191" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23536264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23536264" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bobleeswagger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobleeswagger" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en&layout=compact" alt="softwarejob" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@softwarejob&theme=ambient_gradient&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en" alt="softwarejob" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400" alt="softwarejob" /></p>
+
+
