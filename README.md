@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Standard_library_string_class_test_](https://github.com/softwarejob/Standard_library_string_class_test_program.git)
 
-- 🌱 I’m currently learning **C++ 20**
+- 🧑‍💻 I’m currently learning **C++ 20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
