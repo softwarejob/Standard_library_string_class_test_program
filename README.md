@@ -3,12 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Harry</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-- 🔭 I’m currently working on [Standard_library_string_class_test_](https://github.com/softwarejob/Standard_library_string_class_test_program.git)
-
-- 🧑‍💻 I’m currently learning **C++ 20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
