@@ -1,0 +1,10 @@
+Conditional Operator (?:) 條件運算子
+
+?: 可以代替if...else statement (this can make your code sorter and clearer)
+
+conditional operator 是 c++ 唯一的ternary operator(三元運算，接受三個運算元)
+
+operands and the ?: symbol from a conditional expression:
+
+cout << (studentGrade >= 60 ? "Passed" : "Failed");
+
